@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub:** [@os-angel](https://github.com/os-angel)
 - **Email:** [anaj9703@colorado.edu]
 - **LinkedIn:** [Angel](https://www.linkedin.com/in/angel-a-a14239179/)
-- **Portfolio:** [Your Website]
+
 
 ---
 
