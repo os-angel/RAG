@@ -1,0 +1,7 @@
+Agentic AI refers to artificial intelligence systems that can act autonomously to achieve specific goals, making decisions and taking actions without constant human oversight. Unlike traditional AI that simply responds to prompts, agentic AI can plan multi-step processes, adapt to changing circumstances, and pursue objectives over extended periods.
+
+These systems typically possess several key capabilities: goal-setting and planning, the ability to break down complex tasks into smaller steps, decision-making under uncertainty, and learning from feedback to improve performance. They can interact with various tools, APIs, and environments to accomplish their objectives.
+
+Agentic AI often employs techniques like reinforcement learning, large language models with reasoning capabilities, and multi-agent frameworks where different AI agents collaborate or compete. Examples include AI systems that can autonomously conduct research, manage workflows, trade stocks, or coordinate logistics operations.
+
+The "agentic" aspect emphasizes the system's capacity for independent action and goal-directed behavior, distinguishing it from more passive AI tools that simply process inputs and generate outputs. This represents a significant step toward more autonomous and capable AI systems that can handle complex, real-world tasks with minimal human intervention.
